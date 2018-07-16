@@ -1,1 +1,3 @@
 我是一个初始的文本
+Git is a distributed version control system.
+Git is free software.
